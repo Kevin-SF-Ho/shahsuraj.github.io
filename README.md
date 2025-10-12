@@ -2,7 +2,7 @@
 
 > **Mission:** Prove resourcefulness > traditional coding. Ship results > explain process.
 
-**Live Demo:** [https://shahsuraj0204.github.io/](https://shahsuraj0204.github.io/)
+**Live Demo:** [https://shahsuraj0204.github.io/shahsuraj.github.io/]
 
 ---
 
@@ -202,7 +202,7 @@ I'm not looking for a job where someone tells me what to do. I'm looking for equ
 
 - **GitHub:** [@shahsuraj0204](https://github.com/shahsuraj0204)
 - **LinkedIn:** [https://www.linkedin.com/in/shah-suraj-100489349/]
-- **Live Site:** [https://shahsuraj0204.github.io/](https://shahsuraj0204.github.io/)
+- **Live Site:** [https://shahsuraj0204.github.io/shahsuraj.github.io/]
 
 ---
 
